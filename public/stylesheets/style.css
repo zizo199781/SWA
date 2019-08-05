@@ -1,8 +1,27 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 1100px;
+  font: 75px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("d.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: rgb(203, 204, 199);  
+
 }
 
 a {
-  color: #00B7FF;
+  color: rgb(211, 138, 168);
+  font-size: 30px;
+
+}
+button {
+  padding: 35px;
+  
+  margin-left: 100px;
+  margin-top: 0px;
+}
+a:hover {
+  color: rgb(105, 183, 255);
 }
